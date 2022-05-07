@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe.config
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.exe
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\bin\Debug\Personel_kayit.pdb
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Form1.resources
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.exe
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.pdb
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.frmistatistik.resources
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGrafikler.resources
+C:\Users\lenovo\Desktop\Eren\projeler\Personel_kayit\Personel_kayit\obj\Debug\Personel_kayit.FrmGiris.resources
